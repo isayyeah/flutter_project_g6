@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "292351751315",
+    "project_id": "aha-project-management",
+    "storage_bucket": "aha-project-management.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292351751315:android:1b617aaffed38544dd4966",
+        "android_client_info": {
+          "package_name": "com.example.aha_project_management"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHH7SR6mqY6Di3Mle5EedAeO5gp9e-iGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
